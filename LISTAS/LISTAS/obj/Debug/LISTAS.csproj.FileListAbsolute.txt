@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\LISTAS\LISTAS\bin\Debug\LISTAS.exe.config
+C:\Users\PC\Desktop\LISTAS\LISTAS\bin\Debug\LISTAS.exe
+C:\Users\PC\Desktop\LISTAS\LISTAS\bin\Debug\LISTAS.pdb
+C:\Users\PC\Desktop\LISTAS\LISTAS\obj\Debug\LISTAS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\LISTAS\LISTAS\obj\Debug\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LISTAS\LISTAS\obj\Debug\LISTAS.exe
+C:\Users\PC\Desktop\LISTAS\LISTAS\obj\Debug\LISTAS.pdb
